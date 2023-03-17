@@ -7,7 +7,7 @@
  *
  * Return: On success Always 0
  */
- 
+
 int main(void)
 {
 	char c;
