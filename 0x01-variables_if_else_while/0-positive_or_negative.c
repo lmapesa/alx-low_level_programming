@@ -6,7 +6,7 @@
 /**
  * main - determine if no is positive or negative
  *
- * Description: this program will assign a random no to the variable n each time
+ * Description: program will assign a random no to the variable n each time
  *
  * it is executed.
  *
@@ -20,7 +20,6 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	/* your code goes there */
-	
 	if (n == 0)
 	{
 		printf("%d is zero\n", n);
