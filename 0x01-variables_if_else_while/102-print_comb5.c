@@ -13,7 +13,7 @@ int main(void)
 	{
 		for (j = i; j < 100; j++)
 		{
-			if (i == j) 
+			if (i == j)
 			{
 				continue;
 			}
