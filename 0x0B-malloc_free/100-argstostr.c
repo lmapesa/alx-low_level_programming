@@ -4,7 +4,7 @@
   *argstostr - This concatenates all arguments of the program
   *@ac: Argument count
   *@pa: The pointer to array of size ac
-  *Return: NULL if ac == 0 or pa == null, Pointer to new string and NULL on fail.
+  *Return: NULL if ac == 0 or pa == null, Pointer 2 new string & NULL on fail.
   */
 char *argstostr(int ac, char **pa)
 {
