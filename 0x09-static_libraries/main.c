@@ -2,6 +2,6 @@
 
 int main(void)
 {
-  _puts("\"This can, shall and will be done\"\n\t- Levin");
-  return (0);
+    _puts("\"This can, shall and will be done\"\n\t- Levin");
+    return (0);
 }
